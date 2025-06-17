@@ -1,2 +1,2 @@
-# praticando
-praticando criar repositorio
+# Praticando
+Praticando criar repositorio
